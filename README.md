@@ -1,6 +1,7 @@
 # LWaterMark
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-08-31 at 10 34 56](https://user-images.githubusercontent.com/35755427/131432506-c0e29dd3-b7c2-446f-b026-d41427e0236b.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-08-31 at 10 34 56](https://user-images.githubusercontent.com/35755427/131432614-ba981c7e-0460-4f1f-835f-a042abcdb9ff.png)
+
 
 
 
